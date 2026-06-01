@@ -11,13 +11,16 @@ Tip: The corresponding annotation files—including JSON (label metadata), mask 
 
 We conducted a small-scale field test on the Donghai Bridge using a self-developed UAV equipped with a Hikvision camera. The UAV features on-device real-time inference capable of automatically detecting infrastructure defects during flight (see Figures 1–3). 
 
-| ![Figure 1](DonghaiBrideg_UAV_Test/1.JPG) | ![Figure 2](DonghaiBrideg_UAV_Test/2.JPG) | ![Figure 3](DonghaiBrideg_UAV_Test/3.JPG) |
+| ![Figure 1](UAV_test_DonghaiBridge/1.JPG) | ![Figure 2](UAV_test_DonghaiBridge/2.JPG) | ![Figure 3](UAV_test_DonghaiBridge/3.JPG) |
 |:--:|:--:|:--:|
 | *Figure 1* | *Figure 2* | *Figure 3* |
 
 Since the Donghai Bridge undergoes annual maintenance and has relatively few cracks and other defects, we present one representative detection result below (Figure: PartialEffect). For additional scene-level recognition results, please refer to the accompanying paper.
 
-![Partial Detection Effect](DonghaiBrideg_UAV_Test/PartialEffect.png)
+![Partial Detection Effect](UAV_test_DonghaiBridge/PartialEffect.png)
+
+<video src="UAV_test_DonghaiBridge/UAV_Test.mp4" controls width="100%"></video>
+<video src="UAV_test_DonghaiBridge/UAV_View.mp4" controls width="100%"></video>
 
 ### Collaboration
 
