@@ -19,8 +19,8 @@ Since the Donghai Bridge undergoes annual maintenance and has relatively few cra
 
 ![Partial Detection Effect](UAV_test_DonghaiBridge/PartialEffect.png)
 
-<video src="UAV_test_DonghaiBridge/UAV_Test.mp4" controls width="100%"></video>
-<video src="UAV_test_DonghaiBridge/UAV_View.mp4" controls width="100%"></video>
+- 🎬 [UAV_test.mp4](UAV_test_DonghaiBridge/UAV_test.mp4) — UAV inspection flight with real-time defect detection
+- 🎬 [UAV_view.mp4](UAV_test_DonghaiBridge/UAV_view.mp4) — UAV onboard aerial view of Donghai Bridge
 
 ### Collaboration
 
