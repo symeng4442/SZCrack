@@ -27,7 +27,7 @@ Since the Donghai Bridge undergoes annual maintenance and has relatively few cra
 We welcome collaboration and exchange with researchers working on infrastructure defect detection for bridges, tunnels, roads, and related applications. Please feel free to reach out.
 
 *Collaborative Perception Laboratory, Shanghai Jianqiao University*  
-*Shanghai Metro Infrastructure Maintenance Division*
+*Shanghai Rail Transit Maintenance Support Co.,Ltd*
 
 📧 **symeng4442@163.com**
 
