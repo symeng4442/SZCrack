@@ -31,4 +31,16 @@ We welcome collaboration and exchange with researchers working on infrastructure
 
 📧 **symeng4442@163.com**
 
+---
+
+## Citation
+
+If you use this dataset in your research, please cite at least one of the following publications:
+
+[2] Su, Y.; Song, Y.; Zhan, Z.; Bi, Z.; Zhou, B, et al. *Research on Intelligent Identification Technology for Bridge Cracks.* Infrastructures 2025, 10(5), 102.
+
+[3] Song Y, Su Y, et al. *MambaFuse: Cross-scale state space fusion for crack segmentation.* Developments in the Built Environment, 2025, 24: 100751.
+
+[7] Song Y, Zhang Q, Su Y, et al. *Advances in crack dataset development and deep learning-based detection models.* Journal of Building Engineering, 2025: 114734.
+
 
