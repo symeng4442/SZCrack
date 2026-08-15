@@ -1,6 +1,12 @@
 # SZCrack
 SZ_Crack dataset: 1,466 annotated bridge crack samples (1280×1024) from DJI Mavic 3 Pro and Nikon D7200 imagery. Covers pier caps, guardrails, abutments, piers, and decks across bridges in Shanghai, Jinzhou, and Huludao. Addresses low-resolution gaps in open crack data for reliable intelligent inspection deployment.
 
+**Annotation Protocol:** All samples were annotated at the pixel level with polygon masks using the X-AnyLabeling tool by two annotators with civil engineering backgrounds. A unified protocol was followed: crack visible boundaries were carefully delineated, while easily confounded regions such as water stains, formwork joints, and shadows were excluded to ensure annotation quality and consistency.
+
+**Data Split Strategy:** Since the samples are cropped from high-resolution raw images, a sliding-window algorithm was applied for non-overlapping cropping to prevent correlated patches from the same raw image appearing in both training and validation sets, thereby mitigating data leakage risk. The dataset is divided into training and validation sets at a ratio of 8:2.
+
+**Environmental Diversity:** Data collection spanned different seasons, weather, and illumination conditions (including sunny, overcast, and low-light environments beneath bridges), and incorporated realistic background interferences such as water stains, formwork joints, and concrete spalling, reflecting the complexity of real-world bridge inspection scenarios.
+
 ![Sample Crack Image](Sample.png)
 
 Tip: The corresponding annotation files—including JSON (label metadata), mask (pixel-level segmentation ground truth), and YOLOv8-seg TXT (instance segmentation training format)—are currently withheld and will be made publicly available upon the official acceptance and publication of the associated research paper. This staged release is intended to ensure proper academic attribution and alignment with the peer-review process.
